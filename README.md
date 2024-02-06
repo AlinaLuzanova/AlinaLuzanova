@@ -4,7 +4,7 @@
 - **Programming languages:** JavaScript, TypeScript, Java, Python
 - **Frontend:** React, HTML, CSS
 - **ORM:** Sequelize
-- **Backend Framework:** Express, FastAPI
+- **Backend Frameworks:** Express, FastAPI
 - **Database:** PostgreSQL, Neo4j
 - **Containerization:** Docker
 
