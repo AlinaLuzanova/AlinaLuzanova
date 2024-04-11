@@ -1,11 +1,17 @@
 ### Hi there 👋, my name is Alina Luzanova
 #### I'm a web-developer from Saint Petersburg, Russia
 #### My stack of technologies:
-- **Programming languages:** JavaScript, TypeScript, Java, Python
-- **Frontend:** React, HTML, CSS
+##### Frontend:
+- **Programming languages:** JavaScript, TypeScript
+- **Layout:** HTML, JSX/TSX
+- **Styles:** CSS, SCSS, Saas, Bootstrap, Material UI, Ant Design
+- **Frameworks:** React
+- **Flux realisations:** Redux, Redux toolkit
+##### Backend:
+- **Programming languages:** JavaScript, Java, Kotlin
+- **Frameworks:** Express, Spring
 - **ORM:** Sequelize
-- **Backend Frameworks:** Express, FastAPI
-- **Database:** PostgreSQL, Neo4j
+- **Database:** PostgreSQL
 - **Containerization:** Docker
 
 
