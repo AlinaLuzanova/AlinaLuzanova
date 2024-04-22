@@ -4,7 +4,8 @@
 ##### Frontend:
 - **Programming languages:** JavaScript, TypeScript
 - **Layout:** HTML, JSX/TSX
-- **Styles:** CSS, SCSS, Saas, Bootstrap, Material UI, Ant Design
+- **Styles:** CSS, SCSS, Saas, Less
+- **UI:** Bootstrap, Material UI, Ant Design
 - **Frameworks:** React
 - **Flux realisations:** Redux, Redux toolkit
 ##### Backend:
