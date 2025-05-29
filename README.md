@@ -9,8 +9,6 @@ I am a co-founder, tech lead and sometimes developer in the Thothex project, whi
 
 Outside of development, I teach my dog commands, ride my bike, travel, practice Spanish, and sometimes read classics
 
-Translated with DeepL.com (free version)
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://tg.me/alinaluzanova )
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' height='40'>](https://vk.com/anilin__a)  
