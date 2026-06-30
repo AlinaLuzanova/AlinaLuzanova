@@ -3,7 +3,6 @@
 
 <p align="center">
   <a href="https://t.me/alinaluzanova"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram"/></a>
-  <a href="https://vk.com/anilin__a"><img src="https://img.shields.io/badge/VK-0077FF?style=flat&logo=vk&logoColor=white" alt="VK"/></a>
 </p>
 
 <br/>
@@ -47,7 +46,6 @@ I work on **Yandex Tovary** — a merchant center for sellers (think Google Merc
 **Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 **AI Tools**
@@ -80,4 +78,4 @@ Beyond the code, I bring strong soft skills to a team: clear communication, owne
 
 ### 🐾 Outside of development
 
-When I'm not coding, I teach my dog new commands, ride my bike, travel, practice Spanish, and now and then read the classics.
+When I'm not coding, I teach my dog new commands, do cycling, travel or practice languages.
